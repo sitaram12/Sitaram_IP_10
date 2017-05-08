@@ -1,1 +1,8 @@
-hjksahdjkad
+I would like to prefer agile methodology scrum to develop application.
+and 
+following are the phase to complete before development.
+1. identify customer requirements
+2. analysis requirements
+3. design system
+4. coding
+5. testing
